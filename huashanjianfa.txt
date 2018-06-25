@@ -4,3 +4,4 @@ test_leey
 test_lhc02
 我是你的master!!! 解决冲突合并。
 天下武功，唯我至尊葵花宝典。
+test origin_ssh 免密码登陆。
